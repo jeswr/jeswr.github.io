@@ -1,7 +1,7 @@
-# jeswr.github.io
+
 
 <script type="text/javascript">
-if (window.location = "www.morgancc.edu") {
-   window.location.href = 'http://www.morgancc.edu/m/'; 
+if (window.location = "jeswr.me") {
+   window.location.href = 'https://www.linkedin.com/in/jesse-wright-49823a132/'; 
 }
 </script>
